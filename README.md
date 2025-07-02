@@ -22,7 +22,7 @@ This Python tool generates professional invoice PDFs, complete with tax calculat
 ---
 
 ## 🚀 How to Use
-1. Ensure your OpenAI API key is configured inside `GPT_utils_invoice.py`  
+1. Paste your OPENAI key in .env file.
 2. Run the script:  
    ```bash
    python invoice_generator.py
